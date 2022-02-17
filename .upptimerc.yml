@@ -7,7 +7,7 @@ sites:
     url: https://exvoid.net
   - name: Unturned server
     check: "udp-ping"
-    url: 192.168.2.140
+    url: https://exvoid.net
     port: 27015
 
 status-website:
