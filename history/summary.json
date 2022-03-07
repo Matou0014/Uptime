@@ -4,10 +4,10 @@
     "url": "https://exvoid.net",
     "icon": "https://favicons.githubusercontent.com/exvoid.net",
     "slug": "exvoid-net-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
@@ -15,14 +15,16 @@
     "timeWeek": 165,
     "timeMonth": 173,
     "timeYear": 173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 1
+    }
   },
   {
     "name": "Unturned server",
     "url": "https://exvoid.net",
     "icon": "https://favicons.githubusercontent.com/exvoid.net",
     "slug": "unturned-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 36,
     "timeMonth": 37,
     "timeYear": 37,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 0
+    }
   }
 ]
